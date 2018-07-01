@@ -1,8 +1,6 @@
 
 # coding: utf-8
-
-# ### Neural Language model implementation [Bengio, 2003](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) in Keras
-
+### Neural Language model implementation [Bengio, 2003](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) in Keras
 # In[2]:
 
 import scipy.io as sio
