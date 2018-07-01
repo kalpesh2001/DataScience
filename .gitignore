@@ -1,3 +1,2 @@
-.floydexpt
-.floydignore
-.ipynb_checkpoints
+.*
+!/.gitignore
